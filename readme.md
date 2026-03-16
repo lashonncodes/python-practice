@@ -1,12 +1,8 @@
-# LaShonn's Python Journey
+# Python Beginner Projects
 
-Hi, I'm LaShonn
+This repository contains small Python programs I created while learning programming.
 
-I'm learning:
+Projects included:
 
-- Python
-- Linux
-- AWS
-- DevOps
-
-This repository will contain my practice projects and labs.
+1. hello.py – my first Python program
+2. band_name_generator.py – generates a band name based on user input
