@@ -1,5 +1,12 @@
 # LaShonn's Python Journey
 
-This repository contains my Python practice as I learn programming.
+Hi, I'm LaShonn
 
-First program: hello.py
+I'm learning:
+
+- Python
+- Linux
+- AWS
+- DevOps
+
+This repository will contain my practice projects and labs.
