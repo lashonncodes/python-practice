@@ -1,30 +1,14 @@
-# 🎸 Band Name Generator
+# Python Practice
 
-This is a beginner Python project that generates a band name based on user input.
+This repository contains beginner Python programs I created while learning Python.
 
-## How it works
+## Projects
 
-The program asks the user two questions:
-
-1. What is your favorite color?
-2. What is your favorite animal?
-
-It then combines the answers to create a band name.
-
-Example:
-
-Favorite color: Blue  
-Favorite animal: Tiger  
-
-Band name: Blue Tiger
-
-## Python Concepts Used
-
-- print()
-- input()
-- variables
-- string concatenation
-
-## File
+hello.py
+A simple program that prints a greeting.
 
 band_name_generator.py
+Generates a band name based on user input.
+
+tip_calculator.py
+Calculates how much each person should pay when splitting a bill with a tip.
