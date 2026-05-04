@@ -1,6 +1,12 @@
-print("Hello, world!")
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+city = input("Where do you live? ")
+favorite_food = input("What is your favorite food? ")
+goal = input("What is your career goal? ")
 
-name = "LaShonn"
-
+print("\n--- About Me ---")
 print("My name is", name)
-print("I am learning Python, Linux, Cloud, and DevOps.")
+print("I am", age, "years old")
+print("I live in", city)
+print("I love", favorite_food)
+print("My goal is", goal)
