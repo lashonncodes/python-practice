@@ -15,6 +15,11 @@ This is a simple Python program that asks the user questions and prints a summar
 * variables
 * int()
 
+How to run
+
+Run the file in Python:
+
+python about_me.py
 
 This project helped me practice the basics of Python.
 
