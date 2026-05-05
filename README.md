@@ -19,9 +19,19 @@ How to run
 
 Run the file in Python:
 
-python about_me.py
+hello.py
 
 This project helped me practice the basics of Python.
 
+
+## Example Output
+
+What is your name? LaShonn  
+How old are you? 45  
+
+--- About Me ---
+
+My name is LaShonn  
+I am 45 years old.
 
 
