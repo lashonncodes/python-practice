@@ -1,6 +1,6 @@
 # About Me Generator (Python Beginner Project)
 
-This is a simple Python program that asks the user questions and prints a summary.
+A beginner Python project that collects user input and displays a personal summary.
 
 ## What it does
 
